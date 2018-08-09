@@ -1,1 +1,1 @@
-# minibot
+# Minibot - VK Callback API
